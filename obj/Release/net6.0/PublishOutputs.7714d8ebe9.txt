@@ -1,0 +1,11 @@
+D:\new\test\WebApplication1\WebApplication1\publish\WebApplication1.exe
+D:\new\test\WebApplication1\WebApplication1\publish\appsettings.Development.json
+D:\new\test\WebApplication1\WebApplication1\publish\appsettings.json
+D:\new\test\WebApplication1\WebApplication1\publish\WebApplication1.dll
+D:\new\test\WebApplication1\WebApplication1\publish\WebApplication1.deps.json
+D:\new\test\WebApplication1\WebApplication1\publish\WebApplication1.runtimeconfig.json
+D:\new\test\WebApplication1\WebApplication1\publish\WebApplication1.pdb
+D:\new\test\WebApplication1\WebApplication1\publish\Microsoft.OpenApi.dll
+D:\new\test\WebApplication1\WebApplication1\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\new\test\WebApplication1\WebApplication1\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\new\test\WebApplication1\WebApplication1\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
